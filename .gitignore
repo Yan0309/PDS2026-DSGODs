@@ -1,0 +1,4 @@
+# Raw source data lives in the shared Dropbox, never in git
+data/raw/
+__pycache__/
+.DS_Store
